@@ -1,6 +1,8 @@
 # Bot
 A simple bot with GUI and voice commands.
 
+<img src="https://github.com/chenurawinrada/Bot/blob/master/pics/bot1.png">
+<img src="https://github.com/chenurawinrada/Bot/blob/master/pics/bot2.png">
 
 Requrements:
   1) Kivy
